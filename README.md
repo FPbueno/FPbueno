@@ -23,4 +23,4 @@
 Apaixonado por tecnologia, aprender cada vez mais e evoluir as minha habilidades é o que eu mais quero.
 
 ### Contatos:
-- GMAIL: fillipepereia8@gmail.com
+- GMAIL: fillipepereira8@gmail.com
