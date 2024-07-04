@@ -35,4 +35,3 @@ Apaixonado por tecnologia, aprender cada vez mais e evoluir as minha habilidades
 ### Contatos:
 - GMAIL: fillipepereira8@gmail.com
 
-- ![snake gif](https://github.com/FPbueno/FPbueno/blob/output/github-contribution-grid-snake-dark.svg)
