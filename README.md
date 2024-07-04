@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fillipe-almeida-46017025b/)
 
 ![FPbueno GitHub stats](https://github-readme-stats.vercel.app/api?username=FPbueno&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FPbueno)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FPbueno&layout=compact&theme=dracula)
 
 ## Tecnologias que utilizo no meu dia a dia
 
